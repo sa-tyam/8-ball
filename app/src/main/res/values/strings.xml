@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">8ball</string>
+    <string name="askButton">ASK</string>
+</resources>
